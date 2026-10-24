@@ -36,7 +36,7 @@ me.say_hi()
 - **[Zapping](https://github.com/bun1a-dev/Zapping)** — Unofficial Orange TV GO client for Google TV and Android TV.
 - **[marshall-multiroom](https://github.com/bun1a-dev/marshall-multiroom)** — Marshall speaker integration for Home Assistant.
 - **[beamng-shifting-leds](https://github.com/bun1a-dev/beamng-shifting-leds)** — Logitech G923 shift LEDs for BeamNG.drive.
-- **[catt-service](https://github.com/bun1a-dev/catt-service)** — A Home Assistant-related project based on CATT.
+- **[catt-service](https://github.com/bun1a-dev/catt-service)** — A Home Assistant CATT implementation.
 
 ## 📫 Find me
 

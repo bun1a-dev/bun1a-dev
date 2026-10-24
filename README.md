@@ -6,6 +6,7 @@
 class SWE:
     def __init__(self):
         self.name = "Iwo"
+        self.gender = "Male"
         self.role = "Developer & Maker"
         self.languages = ["Polish", "English"]
         self.interests = [
@@ -32,6 +33,7 @@ me.say_hi()
 
 ## 🚀 Featured projects
 
+- **[Zapping](https://github.com/bun1a-dev/Zapping)** — Unofficial Orange TV GO client for Google TV and Android TV.
 - **[marshall-multiroom](https://github.com/bun1a-dev/marshall-multiroom)** — Marshall speaker integration for Home Assistant.
 - **[beamng-shifting-leds](https://github.com/bun1a-dev/beamng-shifting-leds)** — Logitech G923 shift LEDs for BeamNG.drive.
 - **[catt-service](https://github.com/bun1a-dev/catt-service)** — A Home Assistant-related project based on CATT.

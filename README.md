@@ -7,7 +7,7 @@ class SWE:
     def __init__(self):
         self.name = "Iwo"
         self.gender = "Male"
-        self.role = "Developer & Maker"
+        self.role = "Developer & Creator"
         self.languages = ["Polish", "English"]
         self.interests = [
             "Python",
